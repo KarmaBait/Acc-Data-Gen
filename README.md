@@ -18,6 +18,6 @@ To-Do:
 + Allow users to change prefix of Mail (config.json)
 
 
-Showcase:
-![image](https://user-images.githubusercontent.com/92960553/147881887-8ada7baa-f4d4-44fa-93c5-5344a39e6ca4.png)
+Showcase: 
+[image](https://user-images.githubusercontent.com/92960553/147881887-8ada7baa-f4d4-44fa-93c5-5344a39e6ca4.png)
 How the .txt file will look like at the end
