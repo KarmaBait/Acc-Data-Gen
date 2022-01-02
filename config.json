@@ -1,3 +1,6 @@
 {
-
+    "TokenLength":"4",
+    "EmailPrefix":"accdatagen",
+    "EmailSuffix":"gmail.com",
+    "EnableLogs":"1"
 }
