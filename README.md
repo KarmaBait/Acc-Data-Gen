@@ -16,3 +16,8 @@ To-Do:
 + Add working config.json
 + Allow users to change the amount of digit for Token & Password (config.json)
 + Allow users to change prefix of Mail (config.json)
+
+
+Showcase:
+![image](https://user-images.githubusercontent.com/92960553/147881887-8ada7baa-f4d4-44fa-93c5-5344a39e6ca4.png)
+How the .txt file will look like at the end
