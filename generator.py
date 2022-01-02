@@ -7,7 +7,6 @@ import string
 import asyncio
 import json
 
-timesGenerated = NULL
 
 #USE SO THAT PROGRAM WON'T LAG / CRASH
 if os.name in ['nt']:
