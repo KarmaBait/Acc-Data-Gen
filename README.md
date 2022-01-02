@@ -1,8 +1,12 @@
 # Acc-Data-Gen
 Allows you to generate a password, e-mail &amp; token for your Minecraft Account
 
-How it works:
-Execute the "AccountDataGenerator" using Python to create a .txt file within a folder including a generated Token, Password & E-mail address.
+How to use the generator:
+1. Move all the files in a single directory
+2. Click the searchbar within that directory and type "cmd"
+3. Make sure you've Python installed, otherwise it's not going to work
+4. Once "cmd" opens, type: 'python generator.py' (might sometimes not work with 'python' try 'py' instead)
+5. Enjor your new generated password, mail & token!
 
 
 Updates | 2nd January 2022
