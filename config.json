@@ -1,3 +1,6 @@
 {
-
+    "TokenLength":"4",
+    "EmailPrefix":"zodiacsniper",
+    "EmailSuffix":"gmail.com",
+    "EnableLogs":"1"
 }
