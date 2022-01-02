@@ -10,17 +10,8 @@ How to use the generator:
 
 
 Updates | 2nd January 2022
-+ Added Account Data Generator
-+ Generator creates log directory & adds .txt file with account data inside
-+ Added Password generator (16 digits including numbers & letters in all capitalizations)
-+ Added Token generator (currently 4 digits random number)
-+ Added info.json with information about the program
++ Working config.json
++ Change amount of digits for token (4-6) -> config.json
++ Change if program should be logged (.txt) -> config.json
++ Change E-Mail prefix & suffix
 
-To-Do:
-+ Add working config.json
-+ Allow users to change the amount of digit for Token & Password (config.json)
-+ Allow users to change prefix of Mail (config.json)
-
-
-
-![image](https://user-images.githubusercontent.com/92960553/147881887-8ada7baa-f4d4-44fa-93c5-5344a39e6ca4.png)
