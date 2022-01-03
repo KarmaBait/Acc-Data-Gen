@@ -2,5 +2,6 @@
     "TokenLength":"4",
     "EmailPrefix":"accdatagen",
     "EmailSuffix":"gmail.com",
-    "EnableLogs":"1"
+    "EnableLogs":"1",
+    "EnableCustomLogName":"Work_In_Progress"
 }

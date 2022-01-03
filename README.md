@@ -16,5 +16,6 @@ Updates | 2nd January 2022
 + Change E-Mail prefix & suffix
 
 To-Do:
-- Stronger Passwords (including special charachters) <Done>
-- Enable/Disable Token <WIP>
+- Stronger Passwords (including special charachters) - DONE
+- Enable/Disable Token - WIP
+- Allow custom names for LogFiles (PasswordLogger) - WIP
