@@ -15,3 +15,6 @@ Updates | 2nd January 2022
 + Change if program should be logged (.txt) -> config.json
 + Change E-Mail prefix & suffix
 
+To-Do:
+- Stronger Passwords (including special charachters) <Done>
+- Enable/Disable Token <WIP>
